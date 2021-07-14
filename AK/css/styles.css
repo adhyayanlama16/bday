@@ -1,0 +1,45 @@
+body{
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FFEFD8;
+}
+.round{
+position: absolute;
+width: 90px;
+height: 94px;
+left: 108px;
+top: 22px;
+
+background: #FFEFD8;
+border: 10px solid #F93E5F;
+border-radius: 50px;
+box-sizing: border-box;
+}
+.sidenav .s1{
+position: absolute;
+width: 32px;
+height: 0px;
+left: 308px;
+top: 23px;
+border: 3px solid #000000;
+}
+.sidenav .s2{
+position: absolute;
+width: 32px;
+height: 0px;
+left: 308px;
+top: 12px;
+
+border: 3.5px solid #000000;
+}
+.sidenav .s3{
+    position: absolute;
+    width: 32px;
+    height: 0px;
+    left: 308px;
+    top: 32px;
+    
+    border: 3.5px solid #000000;     
+}
